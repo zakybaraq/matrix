@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Monkey D.Luffy</title>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+ <div class="nav"> 
+   <h2>Luffy</h2>
+  <ul>
+    <li>About</li>
+    <li>History</li>
+    <li>Quiz</li>
+    <li>D. Family</li>
+	</ul>
+  </div>
+ <div class="main">
+    <h1>This link from Wikipedia</h1>
+  <h3>About Monkey D.Luffy</h3>
+    <p>Monkey D. "Straw Hat"[n 1] Luffy[n 2] (モンキー・D・ルフィ Monkī Dī Rufi?) is a fictional character and the main protagonist of the One Piece manga series created by Eiichiro Oda. Luffy is introduced in One Piece chapter 1 "Romance Dawn" (Romance Dawn - 冒険の夜明 Romansu Dōn - Bōken no Yoake?), first published in Japan's Weekly Shōnen Jump magazine on July 19, 1997, as a young boy whose body gains the properties of rubber after he inadvertently eats a supernatural fruit called the Gum-Gum Fruit, one of many Devil Fruits that can be found in the universe.
+
+In One Piece, Luffy sails from the East Blue to the Grand Line in search of the legendary treasure One Piece to succeed Gol.D. Roger as the King of the Pirates. He is the captain of the Straw Hat Pirates and along his journey, he recruits new crew members with unique abilities and personalities. He fights several antagonists, such as the Seven Warlords of the Sea and the World Government, during his travels, while also aiding and befriending the locals of various islands. Luffy has a cheerful demeanor but is quickly serious when fighting. Luffy is able to use the elasticity of his body to concentrate his strength and power to execute a diverse range of attacks, the most prominent being his signature Gum-Gum Pistol, in which Luffy slingshots his punches at opponents from a distance.
+
+As the protagonist, Luffy appears in most of the episodes, films, television specials, and OVAs of the anime series One Piece, as well as several of the franchise's video games. Due to the series' international popularity, Luffy has become one of the most recognizable and iconic anime characters in history. Outside the One Piece franchise, Luffy has had an appearance in the crossover manga Cross Epoch, and in a collaborative one-shot manga with Toriko.[1] He has also been the subject of other parodies, and has appeared in various special events throughout Japanese pop culture</p>
+ <img width="240" height="320" src="http://vignette1.wikia.nocookie.net/onepiece/images/6/6d/Monkey_D._Luffy_Anime_Post_Timeskip_Infobox.png/revision/latest?cb=20160807103317"/>
+  </div>
+</body>
+</html>
+
